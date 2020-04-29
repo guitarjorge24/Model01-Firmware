@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-				"C:\\Users\\Jorge\\Documents\\Arduino\\hardware\\keyboardio\\**"
+                "C:\\Users\\Jorge\\Documents\\Arduino\\hardware\\keyboardio\\**",
+                "C:\\Users\\Jorge\\Documents\\Arduino\\hardware\\keyboardio\\avr\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
