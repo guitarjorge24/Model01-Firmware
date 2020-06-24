@@ -1,3 +1,3 @@
-[submodule "Model_01_Firmware_Custom"]
-	path = Model_01_Firmware_Custom
+[submodule "Model01-Firmware-Custom"]
+	path = Model01-Firmware-Custom
 	url = https://github.com/guitarjorge24/Model_01_Firmware_Custom.git
