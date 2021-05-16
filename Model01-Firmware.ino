@@ -148,8 +148,8 @@ enum { PRIMARY, YTREWQ, NUMPAD, FUNCTION}; // layers
   */
 
 #define PRIMARY_KEYMAP_QWERTY
-// #define PRIMARY_KEYMAP_COLEMAK
 // #define PRIMARY_KEYMAP_DVORAK
+// #define PRIMARY_KEYMAP_COLEMAK
 // #define PRIMARY_KEYMAP_CUSTOM
 
 /* This comment temporarily turns off astyle's indent enforcement
